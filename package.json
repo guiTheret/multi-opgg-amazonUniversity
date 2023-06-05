@@ -1,0 +1,12 @@
+{
+  "name": "get-opgg",
+  "version": "1.0.0",
+  "description": "get multi opgg from amazonUniversity team",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Guillaume Théret (Robébou)",
+  "license": "ISC"
+}
